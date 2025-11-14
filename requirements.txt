@@ -1,0 +1,24 @@
+# Core Dependencies
+ultralytics>=8.0.0
+opencv-python>=4.8.0
+numpy>=1.24.0
+torch>=2.0.0
+torchvision>=0.15.0
+
+# API
+fastapi>=0.104.0
+uvicorn[standard]>=0.24.0
+pydantic>=2.0.0
+
+# Database
+mysql-connector-python>=8.2.0
+pymysql>=1.1.0
+
+# Utilities
+python-dotenv>=1.0.0
+requests>=2.31.0
+
+# Optional - Dashboard
+streamlit>=1.28.0
+plotly>=5.17.0
+pandas>=2.1.0
