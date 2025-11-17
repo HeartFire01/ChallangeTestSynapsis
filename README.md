@@ -30,10 +30,6 @@
 
 ## Setup Instructions
 
-### Perintah untuk install library
-```bash
-pip install -r requirements.txt
-
 
 # Perintah untuk install library
 pip install -r requirements.txt
@@ -53,7 +49,7 @@ nano .env
 
 
 
-Cara menjalankan :
+# Cara menjalankan di Terminal :
 
 
 uvicorn api_app:app --reload --> Start Server
