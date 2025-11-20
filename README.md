@@ -7,7 +7,7 @@
 - Untuk tahapan ini, penulis menggunakan video live CCTV streaming di Pasar Beringharjo - Malioboro - D.I.Y Jogjakarta (https://cctvjss.jogjakota.go.id/malioboro/Malioboro_30_Pasar_Beringharjo.stream/playlist.m3u8)
 
 ## Challenge #3 - DONE
-- Untuk deteksi orang, penulis menggunakan **YOLOv5** dengan medium model.
+- Untuk deteksi orang, penulis menggunakan **YOLOv11** dengan medium model.
 - Tracking objek menggunakan **BOT-SORT** (centroid).
 
 ## Challenge #4 - DONE
